@@ -1,0 +1,17 @@
+- Puse titulo en todos los html, dependiendo en que pagina esten ej:
+
+Inicio - 
+Quienes Somos
+Productos 
+Contacto
+Noticias
+
+Use meta keywords en todos los html:
+
+"Cerveza, Artesanal, Bosque Nativo"
+
+use meta description en todos los html:
+"Cerveza Artesanal Bosque Nativo - Hecha con la magia del sur de chile con
+diferentes tipos de sabores como: Rubia, Negra, Ambar, Ademas de sus sabores frutales como Cauchao, Mora, Murta - Cerveza con Frutos de la isla de chiloe."
+
+-Las imagenes usadas son redimensionadas lo maximo que se pudo ya que eran de celular
